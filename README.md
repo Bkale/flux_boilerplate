@@ -3,13 +3,15 @@
 How to clone:
 
 ```bash
-git clone --branch flux_boilerplate https://github.com/mottaquikarim/nycda_react_starter
+git clone this repository.
+
+created by @mottaquikarim
 ```
 
 HOW TO RUN:
 
 ```bash
-cd nycda_react_starter/js
+cd flux_boilerplate/js
 npm install
 num run watch
 ```
